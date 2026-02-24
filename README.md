@@ -24,4 +24,4 @@ A simple yet engaging **Tic Tac Toe game** built using **HTML, CSS, and JavaScri
 ## 📂 Installation & Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/tic-tac-toe.git
+   git clone https://github.com/Amy-source/Tic-Tok-Toe-Game.git
